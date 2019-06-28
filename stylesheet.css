@@ -1,0 +1,15 @@
+/*Correct syntax for importing stylesheet into pages is:
+<link rel = "stylesheet" href = "stylesheet.css">
+*/
+body {
+	background-color: #29b3e7;
+	margin: 5em
+}
+
+h2,p,address, ul {
+	color: #1114cc;
+	background-color: #24cddb;
+}
+h2 {
+	text-align: center;
+}
